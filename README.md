@@ -13,7 +13,7 @@
 
 ---
 
-## Demo Video Link: [Link](https://www.youtube.com/watch?v=dB_8vFpqT1Y)
+## Demo Video [Link](https://www.youtube.com/watch?v=dB_8vFpqT1Y)
 
 ## 🌟 Overview
 
@@ -274,8 +274,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 🚀 **Ready to Transform Your Trading?**
 
-### [🎯 Try Investica Now](http://localhost:8501) | [📖 Read the Docs](#) | [💬 Join Community](#)
-
 **Built with ❤️ for the future of financial technology**
 
 ---
@@ -293,7 +291,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ### Team Name - Drishtikon
 
 ### Team Members
-* Jayesh Sawaliya
-* Vaishnavi Mandhane
 * Luv Kansal
+* Jayesh Savaliya
+* Vaishnavi Mandhane
 * Kunj Vipul Goyal
