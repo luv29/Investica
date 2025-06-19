@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+        "financial-analyst": {
+            "command": "python",
+            "args": [
+                "server.py"
+            ]
+        }
+    }
+}

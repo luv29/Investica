@@ -1,0 +1,8 @@
+{
+    "mcpServers": {
+        "zerodha_mcp": {
+            "command": "npx",
+            "args": ["mcp-remote", "https://mcp.kite.trade/sse"]
+        }
+    }
+}
