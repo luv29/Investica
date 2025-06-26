@@ -17,7 +17,7 @@
 
 ## 🌟 Overview
 
-**Investica** is a cutting-edge AI-powered financial assistant that transforms how retail investors approach portfolio management and trading. Built for the **DTCC i-Hack 2025 - Drishtikon**, our platform leverages advanced agentic AI workflows to deliver seamless integration between Indian markets (via Zerodha Kite API) and global financial insights.
+**Investica** is a AI-powered financial assistant that transforms how retail investors approach portfolio management and trading.Our platform leverages advanced agentic AI workflows to deliver seamless integration between Indian markets (via Zerodha Kite API) and global financial insights.
 
 ### 🎯 What Makes Investica Special?
 
@@ -285,13 +285,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ![Innovation](https://img.shields.io/badge/Innovation-First-purple?style=for-the-badge)
 
 </div>
-
-## Team Information
-
-### Team Name - Drishtikon
-
-### Team Members
-* Luv Kansal
-* Jayesh Savaliya
-* Vaishnavi Mandhane
-* Kunj Vipul Goyal
